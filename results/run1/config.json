@@ -1,0 +1,13 @@
+{
+  "N": 1024,
+  "dx": 1e-05,
+  "wavelength": 6.33e-07,
+  "z": 0.1,
+  "slit_width": 0.0001,
+  "evanescent": "keep",
+  "outdir": "results/run1",
+  "dtype": "complex64",
+  "device": "mps",
+  "torch_version": "2.9.1",
+  "mps_available": true
+}
