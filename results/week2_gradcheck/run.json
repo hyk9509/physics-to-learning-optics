@@ -1,0 +1,12 @@
+{
+  "N": 512,
+  "dx": 1e-05,
+  "wavelength": 6.33e-07,
+  "z": 0.1,
+  "slit_width": 0.00012,
+  "device": "mps",
+  "dtype": "torch.complex64",
+  "loss": 0.03340844064950943,
+  "grad_mean": 1.2684385183092672e-05,
+  "grad_max": 8.193333633244038e-05
+}
